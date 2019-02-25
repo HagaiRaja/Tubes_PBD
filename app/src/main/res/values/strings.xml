@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">HClinic</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+
+    <string-array name="menu_titles">
+        <item>Pendaftaran</item>
+        <item>Data Obat</item>
+        <item>Jadwal</item>
+        <item>Cari RS</item>
+    </string-array>
+
+    <string-array name="menu_links">
+        <item>pendaftaran</item>
+        <item>data_obat</item>
+        <item>jadwal</item>
+        <item>cari_RS</item>
+    </string-array>
+
+    <string-array name="menu_images">
+        <item>@drawable/daftar</item>
+        <item>@drawable/obatan</item>
+        <item>@drawable/jadwal</item>
+        <item>@drawable/rs</item>
+    </string-array>
 </resources>
