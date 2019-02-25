@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "490147925746",
+    "firebase_url": "https://hclinic-dc0fb.firebaseio.com",
+    "project_id": "hclinic-dc0fb",
+    "storage_bucket": "hclinic-dc0fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490147925746:android:b73fe4023598072c",
+        "android_client_info": {
+          "package_name": "com.example.android.hclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490147925746-ehfhafgrjh5fdsm5u6ih618tiqhk6kjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.hclinic",
+            "certificate_hash": "2581f31b70eb01218d607b1f726ce57db0fdd67d"
+          }
+        },
+        {
+          "client_id": "490147925746-l2tfugvqjhfdodqge7522llkcnogjlbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8PDJVIoiH4DEKwcCni6aPNt4U_JMkrxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490147925746-l2tfugvqjhfdodqge7522llkcnogjlbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
